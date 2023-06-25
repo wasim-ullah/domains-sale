@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p> Email mail@wasim.co to purchase this domain. </p>
+        <p> Email mail@wasim.co to purchase this domain name. </p>
        
       </main>
 
