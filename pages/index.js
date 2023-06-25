@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Email mail@wasim.co to purchase this domain." />
+        <p> Email mail@wasim.co to purchase this domain. </p>
        
       </main>
 
